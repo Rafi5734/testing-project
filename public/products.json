@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Flash Sale Pentium Gold G420 8th Gen Special PC",
+        "description": "Intel Pentium Gold G5420 8th Gen Coffee Lake Processor.ASRock H370M-HDV 8th and 9th Gen Micro ATX Motherboard.4GB 2666MHZ RAM + 120GB SSD.MaxGreen G563BL Case.",
+        "price": 21000,
+        "category": "desktop",
+        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/flash-sale/flash-sale-special-pc-01-228x228.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Star PC AMD Atholon 3000G",
+        "description": "AMD Athlon 3000G Processor with Radeon Graphics.ASRock A320M-HDV R4.0 AMD Motherboard.Adata 4 GB DDR4 2666 BUS Desktop Ram.Seagate 1TB SATA Barracuda HDD",
+        "price": 22100,
+        "category": "desktop",
+        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/star-pc/star-pc/3000g/athlon-3000g-228x228.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Star PC AMD Atholon 3000G",
+        "description": "AMD Athlon 3000G Processor with Radeon Graphics.ASRock A320M-HDV R4.0 AMD Motherboard.Adata 4 GB DDR4 2666 BUS Desktop Ram.Seagate 1TB SATA Barracuda HDD",
+        "price": 22100,
+        "category": "desktop",
+        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/flash-sale/flash-sale-special-pc-2-228x228.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Razer Book 13 core i7 11th Gen 13.4 inch FHD Touch Laptop",
+        "description": "Intel Core i7-1165G7 Processor (12MB Cache, 2.80GHz up to 4.70GHz).16GB Dual-Channel RAM.256GB PCIe SSD.13.4 inch FHD Touch display.",
+        "price": 170000,
+        "category": "laptop",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/book-13/book-13-228x228.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Razer Bland 15 Model Core i7 10th Gen 512GB SSD RTX 2060 6GB Graphics 15.6 inches FHD Gaming Laptop",
+        "description": "Intel Core i7-10750H Processor (12M Cache, 2.60 GHz up to 5.00 GHz).16GB DDR4 Ram +512GB SSD.NVIDIA RTX 2060 6GB Graphics. 15.6 inches FHD(1920 x 1080), 144Hz Display.",
+        "price": 180000,
+        "category": "laptop",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-15-base-model-core-i7-10th-gen/blade-15-base-model-core-i7-10th-gen-228x228.jpg"
+    },
+    {
+        "id": 6,
+        "name": "NEXSTG0 SU03 Core i5 8th Gen i4 inches FHD Laptop with Windows 10.",
+        "description": "Intel Core i5-8250U Processor (6M Cache, 1.60 up to 3.40 GHz).16GB DDR4 Ram +512GB SSD.NVIDIA RTX 2060 6GB Graphics. 15.6 inches FHD(1920 x 1080), 144Hz Display.",
+        "price": 150000,
+        "category": "laptop",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/nexstgo/su03/black/su03-01-228x228.jpg"
+    },
+    {
+        "id": 7,
+        "name": "AOC 22v2q 21.5 inches FHD Borderless FlickerFree IPS Monitor.",
+        "description": "AMD Free Sync Support.5 ms response time.75Hz refresh rate. Low-blue light Technology.",
+        "price": 13800,
+        "category": "monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/22v2q/22v2q-1-228x228.jpg"
+    },
+    {
+        "id": 8,
+        "name": "ViewSonic VA2256-H 21.5 inches 1080p FHD Home and Office Monitor.",
+        "description": "SuperClear IPS technology, Frameless bezel.HDMI and VGA inputs.ViewMode technology. Flicker-Free and Blue Light Filter.",
+        "price": 13500,
+        "category": "monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2256-h/va2256-h-1-228x228.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Samsung LS22R350 22 inches FHD 75hz Gaming LED Monitor.",
+        "description": "Full HD (1920 X 1080) Display.Brightness: 250 cd / m².Response Time: 5(GTG). AMD FreeSync.",
+        "price": 14800,
+        "category": "monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/television/samsung/ls22r350/ls22r350-1-228x228.jpg"
+    }
+]

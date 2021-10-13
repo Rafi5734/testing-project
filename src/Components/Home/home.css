@@ -1,0 +1,9 @@
+.home-card {
+    margin-top: 40px;
+    display: grid;
+    margin-left: 35px;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card {
+    margin-bottom: 30px;
+}
